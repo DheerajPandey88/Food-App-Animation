@@ -56,20 +56,13 @@ lib/src
 ---
 
 ## 📸 Screenshots
-## 📸 Screenshots
-
 ### 🏠 Home Screen
-![Home](screenshots/home.jpeg)
-
-### 🏠 Home Variant
-![Home1](screenshots/home1.jpeg)
-
-### 📅 Booking Screen
-![Booking](screenshots/booking.jpeg)
 <img src="screenshot/home.jpeg" width="250"/>
 
+### 🏠 Home Variant
 <img src="screenshot/home1.jpeg" width="250"/>
 
+### 📅 Booking Screen
 <img src="screenshot/booking.jpeg" width="250"/>
 ---
 
