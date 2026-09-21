@@ -13,7 +13,7 @@ This project is inspired by modern Dribbble designs and focuses on delivering an
 * 🍳 Recipe details with step-by-step guide
 * ✅ Interactive timeline (mark steps as completed)
 * 🌙 Dark theme support
-* 🧠 Built with scalable architecture
+* 🧠 Built with scalable architecture 
 
 ---
 
