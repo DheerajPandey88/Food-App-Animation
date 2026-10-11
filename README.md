@@ -1,4 +1,4 @@
-# 🍔 Flutter Food App (Animation UI)
+# 🍔 Flutter Food App (Animation UI) 
 
 A beautifully designed **Flutter Food Recipe App** featuring smooth animations, clean UI, and interactive cooking steps.
 This project is inspired by modern Dribbble designs and focuses on delivering an engaging user experience with elegant transitions.
