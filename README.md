@@ -7,7 +7,7 @@ This project is inspired by modern Dribbble designs and focuses on delivering an
 
 ## ✨ Features
 
-* 🎨 Clean and modern UI design
+* 🎨 Clean and modern UI design 
 * ⚡ Smooth page transitions & animations
 * 📱 Responsive layout
 * 🍳 Recipe details with step-by-step guide
